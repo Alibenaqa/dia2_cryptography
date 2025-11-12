@@ -13,6 +13,6 @@ def brute_force_cesar(texte_chiffre):
                 resultat += caractere
         print(f"Décalage {decalage} : {resultat}")
 
-# Exemple
+
 texte_chiffre = "GtsotzwQjRtsij678&"
 brute_force_cesar(texte_chiffre)
